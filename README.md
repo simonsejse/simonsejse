@@ -1,4 +1,5 @@
-
+# 20 years old self-taught programmer 
+#Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height=190 src="https://github-readme-stats.vercel.app/api?username=simonsejse&show_icons=true&theme=radical" />
@@ -12,5 +13,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&theme=radical"/>
 </p>
 
-# 20 years old self-taught programmer 
+
 
