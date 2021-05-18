@@ -12,4 +12,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&theme=radical"/>
 </p>
 
- <h1 align="center" style="color: green">Self-taught 20 year old programmer</h1>
+ <h1 align="center">@@Self-taught 20 year old programmer</h1>
