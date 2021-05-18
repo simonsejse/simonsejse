@@ -13,7 +13,7 @@
 </p>
 
 ```diff
-Self-taught 20 year old programmer
+öSelf-taught 20 year old programmer@
 ```
 
 
