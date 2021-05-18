@@ -13,11 +13,7 @@
 </p>
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
- <h1 align="center">Self-taught 20 year old programmer</h1>@@ text in purple (and bold)@@
+@@Self-taught 20 year old programmer@@
 ```
 
 
