@@ -9,7 +9,7 @@
  </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&bg_color=#eb4034)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse)"/>
 </p>
 <p align="center">
   Self-taught 20 year old programmer
