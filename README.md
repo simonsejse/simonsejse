@@ -12,5 +12,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&theme=radical)"/>
 </p>
 <p align="center">
-  Testsdæok
+  Self-taught 20 year old programmer
 </p>
