@@ -12,4 +12,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&theme=radical"/>
 </p>
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
  <h1 align="center">@@Self-taught 20 year old programmer@@</h1>
