@@ -12,5 +12,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&theme=radical"/>
 </p>
 
-<p style='color:red'>This is some red text.</p>
+# 20 years old self-taught programmer 
 
