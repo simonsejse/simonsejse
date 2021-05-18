@@ -6,5 +6,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&theme=radical" />
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&theme=radical)"/>
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonsejse&theme=radical)"/>
+</p>
