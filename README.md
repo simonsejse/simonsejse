@@ -17,8 +17,8 @@
 + text in green
 ! text in orange
 # text in gray
-@@ text in purple (and bold)@@
+ <h1 align="center">Self-taught 20 year old programmer</h1>@@ text in purple (and bold)@@
 ```
 
 
- <h1 align="center">@@Self-taught 20 year old programmer@@</h1>
+
