@@ -1,10 +1,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=simonsejse&show_icons=true&theme=radical" />
+    <img align="center" height=170 src="https://github-readme-stats.vercel.app/api?username=simonsejse&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&theme=radical" />
+    <img align="center" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&theme=radical" />
   </a>
  </p>
 
