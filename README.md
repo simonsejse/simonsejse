@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/simonsejse" target="blank"><img src="https://img.shields.io/twitter/follow/simonsejse?logo=twitter&style=for-the-badge" alt="simonsejse" /></a> </p>
-
 - 🌱 I’m currently looking to learn **React and React-Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/simonsejse?tab=repositories](https://github.com/simonsejse?tab=repositories)
@@ -19,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/simonsejse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simonsejse" height="30" width="40" /></a>
 <a href="https://fb.com/wintheral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wintheral" height="30" width="40" /></a>
 <a href="https://instagram.com/simonwinther01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simonwinther01" height="30" width="40" /></a>
 </p>
@@ -32,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonsejse&show_icons=true&locale=en" alt="simonsejse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonsejse&" alt="simonsejse" /></p>
-
