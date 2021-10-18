@@ -29,7 +29,7 @@
 <hr>
 <!-- Coding joke image and our details -->
 
-<img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="540" height="150" />
+<img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="648" height="180" />
  
 - 🔥 Proficient in **Java**
 
