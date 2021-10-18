@@ -15,7 +15,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
 
-<img src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.37.24.png" alt="dev_object" align="right" width="500" height="250" />
+<img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.37.24.png" alt="dev_object" align="right" width="500" height="250" />
 
 - 🔥 Proficient in **Java**
 
