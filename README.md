@@ -3,6 +3,7 @@
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
+<hr>
 <!-- Your badges -->
   [![Linkedin](https://img.shields.io/badge/-simonwinther-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-winther-36b643220/)
   [![Snapchat](https://img.shields.io/badge/-simonsejse-yellow?style=flat&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/simonsejse)
@@ -12,8 +13,10 @@
   [![Youtube](https://img.shields.io/badge/-@simonwinther-black?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UCDvaM_HB1BQk_52ERjPoe6A)
   [![Gmail](https://img.shields.io/badge/-simonwa01-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> 
+  <hr>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
+<hr>
 
 <img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="540" height="180" />
 
