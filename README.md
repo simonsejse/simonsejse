@@ -10,7 +10,7 @@
 [![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
 [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
 [![Instagram](https://img.shields.io/badge/-simonwinther01-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/simonwinther01)
-[![Gmail](https://img.shields.io/badge/-simonwa01?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
+[![Gmail](https://img.shields.io/badge/-simonwa01-?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> </p>
