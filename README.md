@@ -19,7 +19,7 @@
 
 - 🔥 Proficient in **Java**
 
-- 🌱 I’m currently looking to learn **React and React-Native**
+- 🌱 I’m currently looking to learn **React and React-Native** for front-end
 
 - 👨‍💻 All of my projects are available at [https://github.com/simonsejse?tab=repositories](https://github.com/simonsejse?tab=repositories)
 
@@ -38,6 +38,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonsejse&show_icons=true&locale=en&layout=compact" alt="simonsejse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonsejse&show_icons=true&locale=en" alt="simonsejse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonsejse&" alt="simonsejse" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=simonsejse&show_icons=true&locale=en" alt="simonsejse" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simonsejse&" alt="simonsejse" /></p>
