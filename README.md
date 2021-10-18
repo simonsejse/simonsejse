@@ -1,10 +1,9 @@
 <h1 align="center">Hej 👋, I'm Simon Winther</h1>
 <h3 align="center">A passionate current autodidact backend developer from Denmark</h3>
 
- <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" align="right" width="540" height="180"/> 
-
 <hr>
 <!-- Your badges -->
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" align="right" width="540" height="180"/> 
 
   [![Linkedin](https://img.shields.io/badge/-simonwinther-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-winther-36b643220/)
   [![Snapchat](https://img.shields.io/badge/-simonsejse-yellow?style=flat&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/simonsejse)
