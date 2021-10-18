@@ -1,6 +1,10 @@
 <h1 align="center">Hej 👋, I'm Simon Winther</h1>
 <h3 align="center">A passionate current autodidact backend developer from Denmark</h3>
 
+
+
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150"/> 
 
 <hr>
