@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
 
+- 🔥 Proficient in **Java**
+
 - 🌱 I’m currently looking to learn **React and React-Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/simonsejse?tab=repositories](https://github.com/simonsejse?tab=repositories)
-
-- 🔥 Proficient in **Java**
 
 - 📫 How to reach me **simonwa01@gmail.com**
 
