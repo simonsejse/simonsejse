@@ -3,6 +3,7 @@
 
 <hr>
 <!-- Your badges -->
+  <p>
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" align="right" width="440" height="160"/> 
 
   [![Linkedin](https://img.shields.io/badge/-simonwinther-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-winther-36b643220/)
@@ -13,6 +14,8 @@
   [![Youtube](https://img.shields.io/badge/-@simonwinther-black?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UCDvaM_HB1BQk_52ERjPoe6A)
   [![Gmail](https://img.shields.io/badge/-simonwa01-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> 
+  
+  </p>
  
 <p> 
   Visitor count<br>
