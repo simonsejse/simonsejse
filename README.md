@@ -1,10 +1,12 @@
+<img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/>
+
+<hr>
+
 <h1 align="center">Hej 👋, I'm Simon Winther</h1>
 <h3 align="center">A passionate current autodidact backend developer from Denmark</h3>
 
-
-
-<img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/>
 <hr>
+
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/> 
 
 <hr>
