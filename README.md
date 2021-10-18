@@ -1,7 +1,7 @@
 <h1 align="center">Hej 👋, I'm Simon Winther</h1>
 <h3 align="center">A passionate current autodidact backend developer from Denmark</h3>
 
- <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)" align="right" width="540" height="180"/> 
+ <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" align="right" width="540" height="180"/> 
 
 <hr>
 <!-- Your badges -->
