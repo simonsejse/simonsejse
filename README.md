@@ -3,9 +3,12 @@
 <hr>
 
 <h1 align="center">👋, I'm Simon Winther</h1>
-<h3 align="center">🛸　　　 　🌎　°　　🌓　•　　.°•　　　🚀 ✯
-　　　★　*　　programur　°　　　　🛰 　°·　　                           🪐
-.　　　•　° ★　•  ☄<br>A passionate current autodidact backend developer from Denmark</h3>
+<h3 align="center">
+🛸　　　 　🌎　°　　🌓　•　　.°•　　　🚀 ✯<br>
+★　*　　programur　°　　　　🛰 　°·　<br>　                          
+🪐.　　　•　° ★　•  ☄
+  
+  <br>A passionate current autodidact backend developer from Denmark</h3>
 
 <hr>
 
