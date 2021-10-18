@@ -8,6 +8,7 @@
   [![Snapchat](https://img.shields.io/badge/-simonsejse-yellow?style=flat&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/simonsejse)
   [![Facebook](https://img.shields.io/badge/-wintheral-islamicgreen?style=flat&logo=Facebook&logoColor=black)](https://fb.com/wintheral)
   [![Github](https://img.shields.io/badge/-@simonsejse-black?style=flat&logo=Github&logoColor=white)](https://github.com/simonsejse)
+  [![Youtube](https://img.shields.io/badge/-@simonwinther-black?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UCDvaM_HB1BQk_52ERjPoe6A)
   [![Instagram](https://img.shields.io/badge/-simonwinther01-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/simonwinther01)
   [![Gmail](https://img.shields.io/badge/-simonwa01-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> 
