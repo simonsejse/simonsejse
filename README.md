@@ -15,6 +15,11 @@
   [![Gmail](https://img.shields.io/badge/-simonwa01-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> 
  
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
+</p>
+
  <hr>
   <!-- Git trophies -->
   
