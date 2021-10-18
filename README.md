@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/simonsejse/simonsejse/blob/main/giphy%20(1).gif" width="200%" height="100%"/>
+<img src="https://github.com/simonsejse/simonsejse/blob/main/storhest.gif"/>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150"/> 
 
