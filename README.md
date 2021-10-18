@@ -5,6 +5,7 @@
 
 <!-- Your badges -->
   <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> 
+  
   [![Linkedin](https://img.shields.io/badge/-simonwinther-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-winther-36b643220/)
   [![Snapchat](https://img.shields.io/badge/-simonsejse-yellow?style=flat&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/simonsejse)
   [![Facebook](https://img.shields.io/badge/-wintheral-islamicgreen?style=flat&logo=Facebook&logoColor=black)](https://fb.com/wintheral)
