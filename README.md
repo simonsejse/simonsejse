@@ -1,6 +1,8 @@
 <h1 align="center">Hej 👋, I'm Simon Winther</h1>
 <h3 align="center">A passionate current autodidact backend developer from Denmark</h3>
 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
