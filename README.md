@@ -6,7 +6,7 @@
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-simonwinther-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-winther-36b643220/)
-[![Snapchat](https://img.shields.io/badge/-simonsejse-yellow?style=flat&logo=Snapchat&logoColor=white](https://www.snapchat.com/add/simonsejse)
+[![Snapchat](https://img.shields.io/badge/-simonsejse-yellow?style=flat&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/simonsejse)
 [![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
 [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
 [![Instagram](https://img.shields.io/badge/-simonwinther01-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/simonwinther01)
