@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/simonsejse?tab=repositories](https://github.com/simonsejse?tab=repositories)
 
-- 💬 Ask me about **Java**
+- 🔥 Proficient in **Java**
 
 - 📫 How to reach me **simonwa01@gmail.com**
 
