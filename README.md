@@ -33,7 +33,7 @@
  
 - 🔥 Proficient in **Java**
 
-- 🌱 I’m currently learning **React ** for my front-end and using Spring for backend
+- 🌱 I’m currently learning **React** for my front-end and using Spring for backend
 
 - 👨‍💻 All of my projects are available at [https://github.com/simonsejse?tab=repositories](https://github.com/simonsejse?tab=repositories)
 
