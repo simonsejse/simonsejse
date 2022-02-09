@@ -60,5 +60,9 @@
 
 Feel free to contact me on discord:
 <hr>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/121777389012385796)](https://discord.com/users/213349376435814401)
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/121777389012385796)](https://discord.com/users/121777389012385796)
 
