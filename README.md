@@ -1,13 +1,6 @@
-
-<head>
+<script>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
-
-          
-<i class="devicon-nextjs-original"></i>
-
-hi
-
+</script>
 <img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/>
 
 <hr>
