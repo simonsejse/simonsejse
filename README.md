@@ -47,6 +47,8 @@
 ### Tools, Frameworks and languages I've used: 🛠
 It's varies on how good I am at the different languages and frameworks, but these are just all the tools I've played with and done stuff with.
 Some I've done a lot with, and some I've done a bit with, so I just know what it is, and how it sort of works.
+<div style="display:flex;">
+  
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -93,7 +95,7 @@ Some I've done a lot with, and some I've done a bit with, so I just know what it
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
+</div>
 <hr>
 
 ![simonsejse](https://github-readme-stats.vercel.app/api?username=simonsejse&count_private=true&show_icons=true)
