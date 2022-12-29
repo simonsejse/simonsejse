@@ -1,6 +1,4 @@
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 
 <img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/>
 
@@ -49,8 +47,9 @@
 <!-- Coding languages and stuff I work on -->
 
 ### Tools I work upon : 🛠
-<i class="devicon-html5-plain"></i>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
 <hr>
 
 ![simonsejse](https://github-readme-stats.vercel.app/api?username=simonsejse&count_private=true&show_icons=true)
