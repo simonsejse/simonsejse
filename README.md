@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=100&color=F7F7F7&width=255&lines=%F0%9F%91%8B%2C+I'm+Simon+Winther" alt="Typing SVG" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=100&color=F7F7F7&width=900&height=100&lines=A+passionate+current+autodidact+backend+and+frontend+developer+from+Denmark" alt="Typing SVG" /></a>
-
-<h3 align="center">A passionate current autodidact backend and frontend developer from Denmark</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=20000&pause=100&color=F7F7F7&width=900&height=100&lines=A+passionate+current+autodidact+backend+and+frontend+developer+from+Denmark" alt="Typing SVG" />
+</p>
 
 <hr/>
 
