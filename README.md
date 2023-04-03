@@ -38,14 +38,11 @@
 <hr>
 <!-- Coding languages and stuff I work on -->
 
-### 🛠
-
-<hr>
-
 <details open> 
   <summary><h2>🛠️ Tools, Frameworks and languages I've used: </h2></summary>
     It's varies on how good I am at the different languages and frameworks, but these are just all the tools I've played with and done stuff with.
     Some I've done a lot with, and some I've done a bit with, so I just know what it is, and how it sort of works. I'm also a Latex enthusiast and love creating pretty document and playing around with various libraries in TeX.
+    </br>
 <div style="display:flex;max-width: 150px; margin:auto;">
   
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
