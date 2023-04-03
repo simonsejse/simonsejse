@@ -1,18 +1,16 @@
 <img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/>
 
-<hr>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=100&color=F7F7F7&width=255&height=30&lines=%F0%9F%91%8B%2C+I'm+Simon+Winther" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=20000&pause=100&color=F7F7F7&width=900&height=20&lines=A+passionate+current+autodidact+backend+and+frontend+developer+from+Denmark" alt="Typing SVG" />
-</p>
-
 <hr/>
 
 <!-- Matrix image -->
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
 <hr/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=100&color=F7F7F7&width=255&height=30&lines=%F0%9F%91%8B%2C+I'm+Simon+Winther" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=20000&pause=100&color=F7F7F7&width=900&height=20&lines=A+passionate+current+autodidact+backend+and+frontend+developer+from+Denmark" alt="Typing SVG" />
+</p>
 
 <!-- My links -->
 <p align="center">
