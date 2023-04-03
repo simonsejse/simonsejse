@@ -13,18 +13,15 @@
 <!-- My links -->
 <hr />
 
-<details open> 
-  <summary><h1>🌠 Mine links </h1></summary>
   <p align="center">
   
   <a style="margin-right:10px;" href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  
-  <a style="margin-right:10px;" href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
+
+<a style="margin-right:10px;" href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
 
 ![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
 
-  </p>
-</details>
+</p>
 
 <hr />
 
