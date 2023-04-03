@@ -149,6 +149,9 @@
   </p>
 </details>
 
+<details open>
+  <summary><h2>📘 Other stats</h2></summary>
+
 ![simonsejse](https://github-readme-stats.vercel.app/api?username=simonsejse&count_private=true&show_icons=true)
 <a>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonsejse&" alt="orangesidny" />
@@ -159,5 +162,7 @@
 Feel free to contact me on discord:
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213349376435814401)](https://discord.com/users/213349376435814401)
+
+</details>
 
 <hr>
