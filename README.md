@@ -45,6 +45,8 @@
 - ⚡ Fun fact **Walmart has a lower acceptance rate than Harvard.**
 </details>
 
+<hr/>
+    
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -151,6 +153,8 @@
   </p>
 </details>
 
+<hr/>
+    
 <details open>
   <summary><h2>📘 Other stats</h2></summary>
 
