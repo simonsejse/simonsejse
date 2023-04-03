@@ -11,19 +11,12 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
 <!-- My links -->
-<hr />
-
-  <p align="center">
-  
-  <a style="margin-right:10px;" href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-
-<a style="margin-right:10px;" href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
-
-![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
-
+<p align="center">
+  <a style="margin-right:10px;" href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  <a style="margin-right:10px;" href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"/>
 </p>
 
-<hr />
+![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
 
 <!-- Coding joke image and our details -->
 <details open> 
