@@ -18,8 +18,8 @@
 <p align="center">
   <a href="discord.com"><img alt="logo" src="https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge"/>
   <img alt="followers" title="Følg mig på Github" src="https://custom-icon-badges.demolab.com/github/followers/simonsejse?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="test.com"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simonsejse?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+  <a href="https://github.com/simonsejse?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simonsejse?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  
 </p>
 
 <!-- Coding joke image and our details -->
