@@ -12,15 +12,12 @@
 
 <!-- My links -->
 <hr>
+
 <details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
-
-<a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-<a href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
-![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
-
-<a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-
+  <summary><h2>🌠 Mine links </h2></summary>
+  <a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
+  ![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
 </details>
 
 <hr>
@@ -41,11 +38,14 @@
 <hr>
 <!-- Coding languages and stuff I work on -->
 
-### Tools, Frameworks and languages I've used: 🛠
+### 🛠
 
-It's varies on how good I am at the different languages and frameworks, but these are just all the tools I've played with and done stuff with.
-Some I've done a lot with, and some I've done a bit with, so I just know what it is, and how it sort of works. I'm also a Latex enthusiast and love creating pretty document and playing around with various libraries in TeX.
+<hr>
 
+<details open> 
+  <summary><h2>🛠️ Tools, Frameworks and languages I've used: </h2></summary>
+    It's varies on how good I am at the different languages and frameworks, but these are just all the tools I've played with and done stuff with.
+    Some I've done a lot with, and some I've done a bit with, so I just know what it is, and how it sort of works. I'm also a Latex enthusiast and love creating pretty document and playing around with various libraries in TeX.
 <div style="display:flex;max-width: 150px; margin:auto;">
   
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -95,6 +95,8 @@ Some I've done a lot with, and some I've done a bit with, so I just know what it
 
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
+</details>
+
 <hr>
 
 ![simonsejse](https://github-readme-stats.vercel.app/api?username=simonsejse&count_private=true&show_icons=true)
