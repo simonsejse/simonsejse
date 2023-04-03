@@ -15,22 +15,24 @@
 
 <details open> 
   <summary><h2>🌠 Mine links </h2></summary>
-  <a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
-  ![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
+  <div style="display:flex; justify-content:center;">
+  
+  <a style="margin-right:10px;" href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  
+  <a style="margin-right:10px;" href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
+
+![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
+
+  </div>
 </details>
 
 <hr>
 
 <!-- Coding joke image and our details -->
 <details open> 
-  <summary><h2>🌠 Om mig </h2></summary>
-  <a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
-  ![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
-</details>
-<img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="583.2" height="162" />
- 
+  <summary><h2>👨‍💻 Om mig </h2></summary>
+  <img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="583.2" height="162" />
+
 - 🔥 Proficient in **Java**
 
 - 🌱 I’m currently learning **React** for my front-end and using Spring for backend
@@ -40,6 +42,7 @@
 - 📫 How to reach me **simonwa01@gmail.com**
 
 - ⚡ Fun fact **Walmart has a lower acceptance rate than Harvard.**
+</details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
