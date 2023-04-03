@@ -3,8 +3,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=100&color=F7F7F7&width=255&height=30&lines=%F0%9F%91%8B%2C+I'm+Simon+Winther" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=20000&pause=100&color=F7F7F7&width=900&height=20&lines=A+passionate+current+autodidact+backend+and+frontend+developer+from+Denmark" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=10000&pause=100&color=F7F7F7&width=255&height=30&lines=%F0%9F%91%8B%2C+I'm+Simon+Winther" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=30000&pause=100&color=F7F7F7&width=680&height=20&lines=A+passionate+current+autodidact+backend+and+frontend+developer+from+Denmark" alt="Typing SVG" />
 </p>
 
 <hr/>
@@ -164,5 +164,3 @@ Feel free to contact me on discord:
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213349376435814401)](https://discord.com/users/213349376435814401)
 
 </details>
-
-<hr>
