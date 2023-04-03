@@ -11,11 +11,11 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
 <!-- My links -->
-<hr>
+<hr />
 
 <details open> 
   <summary><h2>🌠 Mine links </h2></summary>
-  <div style="display:flex; justify-content:center;">
+  <p align="center">
   
   <a style="margin-right:10px;" href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   
@@ -23,10 +23,10 @@
 
 ![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
 
-  </div>
+  </p>
 </details>
 
-<hr>
+<hr />
 
 <!-- Coding joke image and our details -->
 <details open> 
@@ -44,7 +44,7 @@
 - ⚡ Fun fact **Walmart has a lower acceptance rate than Harvard.**
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
