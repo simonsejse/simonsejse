@@ -5,10 +5,12 @@
 <h1 align="center">👋, I'm Simon Winther</h1>
 <h3 align="center">A passionate current autodidact backend and frontend developer from Denmark</h3>
 
-<hr>
+<hr/>
 
 <!-- Matrix image -->
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
+
+<hr/>
 
 <!-- My links -->
 <p align="center">
@@ -18,9 +20,10 @@
 <p align="center">
   <a href="discord.com"><img alt="logo" src="https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge"/>
   <img alt="followers" title="Følg mig på Github" src="https://custom-icon-badges.demolab.com/github/followers/simonsejse?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/simonsejse?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simonsejse?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  
+  <a href="https://github.com/simonsejse?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simonsejse?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </p>
+
+<hr/>
 
 <!-- Coding joke image and our details -->
 <details open> 
