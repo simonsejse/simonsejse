@@ -7,17 +7,21 @@
 
 <hr>
 
+<!-- Matrix image -->
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
-<!-- Your badges -->
+<!-- My links -->
+<hr>
+<details open> 
+  <summary><h2>🌠 Top Sponsors</h2></summary>
 
 <a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <a href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"></a>
 ![Profil visninger](https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge)
 
-<!-- Git trophies -->
+<a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
+</details>
 
 <hr>
 <!-- Coding joke image and our details -->
