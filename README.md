@@ -26,11 +26,6 @@
 </p>
 
  <hr>
-  <!-- Git trophies -->
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
-
-<hr>
 <!-- Coding joke image and our details -->
 
 <img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="583.2" height="162" />
@@ -44,6 +39,11 @@
 - 📫 How to reach me **simonwa01@gmail.com**
 
 - ⚡ Fun fact **Walmart has a lower acceptance rate than Harvard.**
+
+<hr>
+<!-- Git trophies -->
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
 
 <hr>
 <!-- Coding languages and stuff I work on -->
