@@ -11,18 +11,6 @@
 
 <hr>
 
-<!-- Your badges -->
-
-  [![Linkedin](https://img.shields.io/badge/-simonwinther-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simon-winther-36b643220/)
-  [![Snapchat](https://img.shields.io/badge/-simonsejse-yellow?style=flat&logo=Snapchat&logoColor=white)](https://www.snapchat.com/add/simonsejse)
-  [![Facebook](https://img.shields.io/badge/-wintheral-islamicgreen?style=flat&logo=Facebook&logoColor=black)](https://fb.com/wintheral)
-  [![Github](https://img.shields.io/badge/-@simonsejse-black?style=flat&logo=Github&logoColor=white)](https://github.com/simonsejse)
-  [![Instagram](https://img.shields.io/badge/-simonwinther01-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/simonwinther01)
-  [![Youtube](https://img.shields.io/badge/-@simonwinther-black?style=flat&logo=Youtube&logoColor=red)](https://www.youtube.com/channel/UCDvaM_HB1BQk_52ERjPoe6A)
-  [![Gmail](https://img.shields.io/badge/-simonwa01-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
-  <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> 
-  
-  
 <!-- My links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -37,7 +25,6 @@
   <a href="https://github.com/simonsejse?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simonsejse?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </p>
 
-  
  <hr>
   <!-- Git trophies -->
   
