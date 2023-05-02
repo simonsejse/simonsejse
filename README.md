@@ -22,6 +22,19 @@
   [![Gmail](https://img.shields.io/badge/-simonwa01-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:simonwa01@gmail.com)
   <img src="https://komarev.com/ghpvc/?username=simonsejse&label=Profile%20views&color=0e75b6&style=flat" alt="simonsejse" /> 
   
+  
+<!-- My links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  <a href="discord.com"><img alt="logo" src="https://img.shields.io/badge/-Discord-3e74e8?logo=discord&logoColor=white&style=for-the-badge"/>
+</p>
+<p align="center">
+  <a href="discord.com"><img alt="logo" src="https://komarev.com/ghpvc/?username=simonsejse&style=for-the-badge"/>
+  <img alt="followers" title="Følg mig på Github" src="https://custom-icon-badges.demolab.com/github/followers/simonsejse?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/simonsejse?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simonsejse?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</p>
+
+  
  <hr>
   <!-- Git trophies -->
   
