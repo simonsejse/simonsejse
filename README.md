@@ -76,23 +76,22 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=material-ui&logoColor=white"></a>
+    <a href="#"><img alt="CSSFrameworks" src="https://img.shields.io/badge/CSS_Frameworks-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="ReactComponentLibrary" src="https://img.shields.io/badge/React_Component_Library-61DAFB.svg?logo=react&logoColor=white"></a>
+    <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MaterialUI-%230081CB.svg?logo=material-ui&logoColor=white"></a>
     <a href="#"><img alt="ReactRedux" src="https://img.shields.io/badge/React_Redux-764ABC.svg?logo=redux&logoColor=white"></a>
-    <a href="#"><img alt="ReactQuery" src="https://img.shields.io/badge/React_Query-FF4081.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIj48cGF0aCBkPSJNMTk2LjE5NSAyNjAuNzgzTDExNi45MzcgMzE5LjExN0w1Mi4wODcgMjYwLjQ2OEw1Mi40MDMgMTk4LjQ5OUwxMTkuMDk2IDI1My4wNjlMMTk1LjIwNCAxOTguMTE2VjEzMy45NzJMMTMyLjMzMSAxNzAuODI0TDY5LjM1MSAxMTkuMTY5TDEzMy4zMzEgNjcuNTE1TDE5Ni4xOTUgMTAzLjM2N1YzOC40MjJMMjU5LjgwNSAwTDMyMy40MTUgMzguNDIyVjEwMy4zNjdsNjMuMDQgLTY1Ljg1MmwxLjk0IDIuMzAxTDI1OS41IDExOS4zNzZsLTYzLjE2OSA1MS40NTZMMTk2LjE5NSAxMzMuOTcyVjE5OC4xMTZMMjcyLjkwNCAyNTMuMDY5TDI4NC4wMTggMjIwLjE1NEwyODMuNzk0IDI4MS42MjdMMTk2LjE5NSAyNjAuNzgzWk0yNTkuODA1IDQ3Ni42ODVMMzIzLjQxNSAzOTguNTg4VjM2My4xMzJMMjU5LjgwNSAzMzMuNzg3VjI2OC42MzFMMTk2LjE5NSAzMDMuNDU1VjMzOC44MTFMMTk2LjE5NSAzNzQuNDY4TDI1OS44MDUgNDA0LjMyOFY0NjkuNTczTDMyMy40MTUgNTAwVjQ3Ni42ODVMMjU5LjgwNSA0NDcuODgwVjQ3Ni42ODVaIiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==&logoColor=white"></a>
+    <a href="#"><img alt="ReactQuery" src="https://img.shields.io/badge/React_Query-FF4081.svg?  logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIj48cGF0aCBkPSJNMTk2LjE5NSAyNjAuNzgzTDExNi45MzcgMzE5LjExN0w1Mi4wODcgMjYwLjQ2OEw1Mi40MDMgMTk4LjQ5OUwxMTkuMDk2IDI1My4wNjlMMTk1LjIwNCAxOTguMTE2VjEzMy45NzJMMTMyLjMzMSAxNzAuODI0TDY5LjM1MSAxMTkuMTY5TDEzMy4zMzEgNjcuNTE1TDE5Ni4xOTUgMTAzLjM2N1YzOC40MjJMMjU5LjgwNSAwTDMyMy40MTUgMzguNDIyVjEwMy4zNjdsNjMuMDQgLTY1Ljg1MmwxLjk0IDIuMzAxTDI1OS41IDExOS4zNzZsLTYzLjE2OSA1MS40NTZMMTk2LjE5NSAxMzMuOTcyVjE5OC4xMTZMMjcyLjkwNCAyNTMuMDY5TDI4NC4wMTggMjIwLjE1NEwyODMuNzk0IDI4MS42MjdMMTk2LjE5NSAyNjAuNzgzWk0yNTkuODA1IDQ3Ni42ODVMMzIzLjQxNSAzOTguNTg4VjM2My4xMzJMMjU5LjgwNSAzMzMuNzg3VjI2OC42MzFMMTk2LjE5NSAzMDMuNDU1VjMzOC44MTFMMTk2LjE5NSAzNzQuNDY4TDI1OS44MDUgNDA0LjMyOFY0NjkuNTczTDMyMy40MTUgNTAwVjQ3Ni42ODVMMjU5LjgwNSA0NDcuODgwVjQ3Ni42ODVaIiBmaWxsPSIjZmZmIi8+PC9zdmc+Cg==&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="NUnit" src="https://img.shields.io/badge/NUnit-25A162.svg?logo=circle&logoColor=white"></a>
     <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=circle&logoColor=white"></a>
-    <a href="#"><img alt="CSSFrameworks" src="https://img.shields.io/badge/CSS_Frameworks-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="ReactComponentLibrary" src="https://img.shields.io/badge/React_Component_Library-61DAFB.svg?logo=react&logoColor=white"></a>
-      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-      <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-pink.svg?logo=vite"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-green.svg?logo=spring-boot&logoColor=white"></a>
-      <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-e0982c.svg?logo=hibernate&logoColor=white"></a>
-      <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-20232a.svg?logo=lombok&logoColor=green"></a>
+    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-pink.svg?logo=vite"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-green.svg?logo=spring-boot&logoColor=white"></a>
+    <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-e0982c.svg?logo=hibernate&logoColor=white"></a>
+    <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-20232a.svg?logo=lombok&logoColor=green"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
