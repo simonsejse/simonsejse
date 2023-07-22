@@ -5,12 +5,6 @@
 <h1 align="center">👋, I'm Simon Winther</h1>
 <h3 align="center">A passionate current autodidact backend and frontend developer from Denmark</h3>
 
-<hr>
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/> 
-
-<hr>
-
 <!-- My links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/simon-winther-36b643220/"><img alt="logo" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -24,6 +18,10 @@
   <img alt="followers" title="Følg mig på Github" src="https://custom-icon-badges.demolab.com/github/followers/simonsejse?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/simonsejse?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simonsejse?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </p>
+
+<hr>
+
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/> 
 
  <hr>
 <!-- Coding joke image and our details -->
@@ -56,6 +54,7 @@
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+          <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?style=flat-square&logo=c&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -90,6 +89,25 @@
       <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-e0982c.svg?logo=hibernate&logoColor=white"></a>
       <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-20232a.svg?logo=lombok&logoColor=green"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+  </p>
+
+
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+      <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=material-ui&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="NUnit" src="https://img.shields.io/badge/NUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+      <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+      <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-pink.svg?logo=vite"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-green.svg?logo=spring-boot&logoColor=white"></a>
+      <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-e0982c.svg?logo=hibernate&logoColor=white"></a>
+      <a href="#"><img alt="Lombok" src="https://img.shields.io/badge/Lombok-20232a.svg?logo=lombok&logoColor=green"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
