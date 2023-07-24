@@ -125,15 +125,49 @@
 
 <hr>
 
-![simonsejse](https://github-readme-stats.vercel.app/api?username=simonsejse&count_private=true&show_icons=true)
-<a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simonsejse&" alt="orangesidny" />
-</a>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=simonsejse&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a>
+      <img title="streak" alt="simonsejse' streak" src="https://streak-stats.demolab.com/?user=simonsejse&theme=monokai-metallian&hide_border=true&mode=weekly"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="simonsejse' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=simonsejse&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="simonsejse' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="simonsejse' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=simonsejse&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 💪 Opened PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🗣 Commented on [#231](https://github.com/DenverCoder1/readme-typing-svg/issues/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🎉 Merged PR [#231](https://github.com/DenverCoder1/readme-typing-svg/pull/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. 🗣 Commented on [#232](https://github.com/DenverCoder1/readme-typing-svg/issues/232) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+<!--END_SECTION:activity-->
+
+</details>
+
 
 Feel free to contact me on discord:
-
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213349376435814401)](https://discord.com/users/213349376435814401)
 <hr>
