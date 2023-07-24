@@ -41,7 +41,7 @@
 <hr>
 <!-- Git trophies -->
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="simonsejse" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=simonsejse&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 <!-- Coding languages and stuff I work on -->
@@ -154,15 +154,7 @@
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-
-1. 🚀 Published release [v1.0.0-alpha (July 24, 2023)](https://github.com/simonsejse/OverleafCopyAndPaste/releases/tag/v1.0.0-alpha) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-2. 🚀 Published release [v1.0.0-alpha (July 24, 2023)](https://github.com/simonsejse/OverleafCopyAndPaste/releases/tag/v1.0.0-alpha) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-3. 🚀 Published release [OverleafCopyAndPaste v1.0.0-alpha](https://github.com/simonsejse/OverleafCopyAndPaste/releases/tag/v1.0.0-alpha) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-4. 🎉 Merged PR [#231](https://github.com/DenverCoder1/readme-typing-svg/pull/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🗣 Commented on [#232](https://github.com/DenverCoder1/readme-typing-svg/issues/232) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-<!--END_SECTION:activity-->
 
 </details>
 
