@@ -155,9 +155,9 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/simonsejse/OverleafCopyAndPaste/pull/3) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-2. 💪 Opened PR [#3](https://github.com/simonsejse/OverleafCopyAndPaste/pull/3) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-3. 🎉 Merged PR [#2](https://github.com/simonsejse/OverleafCopyAndPaste/pull/2) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+1. 🗣 Commented on [#2](https://github.com/simonsejse/OverleafCopyAndPaste/pull/2#issuecomment-1648548198) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+2. 🎉 Merged PR [#3](https://github.com/simonsejse/OverleafCopyAndPaste/pull/3) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+3. 💪 Opened PR [#3](https://github.com/simonsejse/OverleafCopyAndPaste/pull/3) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
 <!--END_SECTION:activity-->
 
 </details>
