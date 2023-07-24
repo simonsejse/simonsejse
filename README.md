@@ -155,9 +155,9 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/simonsejse/OverleafCopyAndPaste/issues/4) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-2. 🗣 Commented on [#2](https://github.com/simonsejse/OverleafCopyAndPaste/pull/2#issuecomment-1648548198) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-3. 🎉 Merged PR [#3](https://github.com/simonsejse/OverleafCopyAndPaste/pull/3) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+1. 🚀 Published release [v1.1.0-alpha](https://github.com/simonsejse/OverleafCopyAndPaste/releases/tag/v1.1.0-alpha) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+2. ❗ Opened issue [#4](https://github.com/simonsejse/OverleafCopyAndPaste/issues/4) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+3. 🗣 Commented on [#2](https://github.com/simonsejse/OverleafCopyAndPaste/pull/2#issuecomment-1648548198) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
 <!--END_SECTION:activity-->
 
 </details>
