@@ -155,9 +155,9 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.0-alpha (July 25, 2023)](https://github.com/simonsejse/OverleafCopyAndPaste/releases/tag/v1.1.0-alpha) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-2. 🚀 Published release [dsada](https://github.com/simonsejse/OverleafCopyAndPaste/releases/tag/ds) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
-3. 🚀 Published release [v1.1.1-alpha (July 25, 2023)](https://github.com/simonsejse/OverleafCopyAndPaste/releases/tag/v1.1.1-alpha) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+1. 🔒 Closed issue [#5](https://github.com/simonsejse/OverleafCopyAndPaste/issues/5) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+2. 🔒 Closed issue [#5](https://github.com/simonsejse/OverleafCopyAndPaste/issues/5) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
+3. ❗ Opened issue [#5](https://github.com/simonsejse/OverleafCopyAndPaste/issues/5) in [simonsejse/OverleafCopyAndPaste](https://github.com/simonsejse/OverleafCopyAndPaste)
 <!--END_SECTION:activity-->
 
 </details>
