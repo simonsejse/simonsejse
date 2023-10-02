@@ -156,9 +156,9 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/simonsejse/compSys-e2023-pub/pull/2) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
-2. 💪 Opened PR [#2](https://github.com/simonsejse/compSys-e2023-pub/pull/2) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
-3. ❌ Closed PR [#1](https://github.com/diku-compSys/compSys-e2023-pub/pull/1) in [diku-compSys/compSys-e2023-pub](https://github.com/diku-compSys/compSys-e2023-pub)
+1. 🎉 Merged PR [#3](https://github.com/simonsejse/compSys-e2023-pub/pull/3) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
+2. 💪 Opened PR [#3](https://github.com/simonsejse/compSys-e2023-pub/pull/3) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
+3. ❌ Closed PR [#2](https://github.com/simonsejse/compSys-e2023-pub/pull/2) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
 <!--END_SECTION:activity-->
 
 </details>
