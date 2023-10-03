@@ -156,9 +156,9 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/simonsejse/compSys-e2023-pub/pull/3) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
-2. 💪 Opened PR [#3](https://github.com/simonsejse/compSys-e2023-pub/pull/3) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
-3. ❌ Closed PR [#2](https://github.com/simonsejse/compSys-e2023-pub/pull/2) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
+1. 🎉 Merged PR [#1](https://github.com/simonsejse/latex-template/pull/1) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
+2. 💪 Opened PR [#1](https://github.com/simonsejse/latex-template/pull/1) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
+3. 🎉 Merged PR [#4](https://github.com/simonsejse/compSys-e2023-pub/pull/4) in [simonsejse/compSys-e2023-pub](https://github.com/simonsejse/compSys-e2023-pub)
 <!--END_SECTION:activity-->
 
 </details>
