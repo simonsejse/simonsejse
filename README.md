@@ -156,9 +156,9 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/simonsejse/latex-template/pull/4) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
-2. 💪 Opened PR [#4](https://github.com/simonsejse/latex-template/pull/4) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
-3. 🎉 Merged PR [#3](https://github.com/simonsejse/latex-template/pull/3) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
+1. 🎉 Merged PR [#5](https://github.com/simonsejse/latex-template/pull/5) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
+2. 💪 Opened PR [#5](https://github.com/simonsejse/latex-template/pull/5) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
+3. 🎉 Merged PR [#4](https://github.com/simonsejse/latex-template/pull/4) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
 <!--END_SECTION:activity-->
 
 </details>
