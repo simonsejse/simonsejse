@@ -46,39 +46,45 @@
 <p align="center">
   <!-- Link to the trophy section -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=simonsejse&theme=onedark&column=3&row=4&margin-w=15&margin-h=15" alt="simonsejse's GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=simonsejse&theme=onestar&column=3&row=4&margin-w=15&margin-h=15&no-bg=true" alt="simonsejse's GitHub Trophies">
   </a>
 </p>
 
 <hr>
 
-<details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
+### 📊 GitHub Stats and Activity
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a>
-      <img title="streak" alt="simonsejse' streak" src="https://streak-stats.demolab.com/?user=simonsejse&theme=monokai-metallian&hide_border=true&mode=weekly"/>
+<!-- Grid layout using HTML -->
+<div align="center">
+  <!-- Streak Stats -->
+  <div>
+    <h3>🔥 Streak Stats</h3>
+    <img title="streak" alt="simonsejse's streak" src="https://streak-stats.demolab.com/?user=simonsejse&theme=monokai-metallian&hide_border=true&mode=weekly"/>
+  </div>
+  <!-- GitHub Profile Stats -->
+  <div>
+    <h3>💻 GitHub Profile Stats</h3>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="simonsejse's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=simonsejse&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
     </a>
-  </p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="simonsejse's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&langs_count=12&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="180px"/>
+    </a>
+    <p>Note: Top languages does not indicate my skill level, it's a GitHub metric of which languages have the most code on GitHub.</p>
+  </div>
+  <!-- Activity Graph -->
+  <div>
+    <h3>📈 Activity Graph</h3>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img alt="simonsejse's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=simonsejse&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    </a>
+  </div>
+</div>
 
-  <h3>💻 GitHub Profile Stats</h3>
+<hr>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="simonsejse' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=simonsejse&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="simonsejse' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&langs_count=15&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="simonsejse' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=simonsejse&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
+<h3>⚡ Recent GitHub Activity</h3>
 
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/simonsejse/latex-template/pull/6) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
@@ -86,11 +92,14 @@
 3. 🎉 Merged PR [#4](https://github.com/simonsejse/latex-template/pull/4) in [simonsejse/latex-template](https://github.com/simonsejse/latex-template)
 <!--END_SECTION:activity-->
 
-</details>
-
-
-Feel free to contact me on discord:
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/213349376435814401)](https://discord.com/users/213349376435814401)
 <hr>
+
+<h3>Contact me on Discord</h3>
+
+<p>
+  <a href="https://discord.com/users/213349376435814401">
+    <img src="https://lanyard-profile-readme.vercel.app/api/213349376435814401" alt="Discord Presence"/>
+  </a>
+</p>
+
 
