@@ -42,7 +42,7 @@
 
 <hr>
 
-### 🏆 My GitHub Trophies
+## 🏆 My GitHub Trophies
 <p align="center">
   <!-- Link to the trophy section -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -53,31 +53,31 @@
 <hr>
 
 
-### 📊 GitHub Stats and Activity
+## 📊 GitHub Stats and Activity
 
 <!-- Grid layout using HTML -->
 <div align="center">
   <!-- Streak Stats -->
   <div>
     <h3>🔥 Streak Stats</h3>
-    <img title="streak" alt="simonsejse's streak" src="https://streak-stats.demolab.com/?user=simonsejse&theme=monokai-metallian&hide_border=true&mode=weekly"/>
+    <img title="Streak Stats" alt="simonsejse's streak" src="https://streak-stats.demolab.com/?user=simonsejse&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD2727&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9E9E9E&mode=weekly" />
   </div>
   <!-- GitHub Profile Stats -->
   <div>
     <h3>💻 GitHub Profile Stats</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="simonsejse's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=simonsejse&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
-    </a>
+      <img alt="simonsejse's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=simonsejse&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=58A6FF&text_color=9f9f9f&title_color=58A6FF" height="180px"/>
+    </a>  
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="simonsejse's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&langs_count=12&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="180px"/>
+      <img alt="simonsejse's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=simonsejse&langs_count=12&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=9f9f9f&icon_color=58A6FF&hide=Jupyter%20Notebook,Roff,HTML,CSS" height="180px"/>
     </a>
     <p>Note: Top languages does not indicate my skill level, it's a GitHub metric of which languages have the most code on GitHub.</p>
   </div>
   <!-- Activity Graph -->
   <div>
     <h3>📈 Activity Graph</h3>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="simonsejse's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=simonsejse&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    <a>
+      <img alt="simonsejse's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=simonsejse&theme=react-dark&hide_border=true&height=300" />
     </a>
   </div>
 </div>
