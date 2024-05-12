@@ -25,12 +25,14 @@
 
  <hr>
 <!-- Coding joke image and our details -->
-
+ 
+ 👨‍💻 I'm a Computer Science student passionate about building software that makes a difference. I thrive on challenge and constantly set goals for myself, so I have something to strive toward. I'm not comfortable with settling, and I'm always looking for an opportunity to do better and achieve greatness.
+ 
 <img style="object-fit: cover;" src="https://github.com/simonsejse/simonsejse/blob/main/Sk%C3%A6rmbillede%202021-10-18%20kl.%2002.51.56.png" alt="dev_object" align="right" width="583.2" height="162" />
  
-- 🔥 Proficient in **Java**
+- 🔥 Eager to learn about new technologies and methodologies that will improve my programming and problem-solving capabilities.
 
-- 🌱 I’m currently learning **React** for my front-end and using Spring for backend
+- 🖥️ Very interested in the design and development of **compilers and interpreters**, exploring how programming languages are constructed and executed.
 
 - 👨‍💻 All of my projects are available at [https://github.com/simonsejse?tab=repositories](https://github.com/simonsejse?tab=repositories)
 
