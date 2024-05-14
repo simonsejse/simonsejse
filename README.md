@@ -46,7 +46,7 @@
 <p align="center">
   <!-- Link to the trophy section -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=simonsejse&theme=onestar&column=3&row=4&margin-w=15&margin-h=15&no-bg=true" alt="simonsejse's GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=simonsejse&theme=onestar&column=3&row=5&margin-w=15&margin-h=15&no-bg=true" alt="simonsejse's GitHub Trophies">
   </a>
 </p>
 
